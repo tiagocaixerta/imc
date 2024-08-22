@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.form-group {
+  margin: 15px 0;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.result {
+  margin-top: 20px;
+}
+
+.result h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.result p {
+  font-size: 18px;
+}
